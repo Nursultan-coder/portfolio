@@ -233,6 +233,8 @@ line-height: 20px;
   margin-top: 45px; 
 }
 .buttons-down button {
+  heigth: 62px;
+  width: 62px;
   border: medium none;
   background-image: none; 
   background: transparent;
